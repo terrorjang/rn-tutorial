@@ -13,7 +13,7 @@ export default function Index() {
       <Text className="font-bold text-lg color-blue-500 my-10">
         Welcom to ReState
       </Text>
-      <Text className="font-bold text-lg color-blue-500">
+      <Text className="font-bold text-lg color-blue-500 font-rubik text-3xl">
         Welcom to ReState
       </Text>
       <Link href="/sign-in">Sign In</Link>
